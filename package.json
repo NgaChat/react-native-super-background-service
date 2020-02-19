@@ -1,0 +1,34 @@
+{
+  "name": "react-native-super-background-service",
+  "version": "0.0.8",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NgaChat/react-native-super-background-service.git"
+  },
+  "keywords": [
+   "background",
+   "background-service",
+   "background-job",
+   "react-native-background-service"
+
+  ],
+  "author": "Zin Myo Oo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NgaChat/react-native-super-background-service/issues"
+  },
+  "homepage": "https://github.com/NgaChat/react-native-super-background-service#readme",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": ">=0.60"
+  },
+  "devDependencies": {
+    "react": "*",
+    "react-native": ">=0.60"
+  }
+  
+}
